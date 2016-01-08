@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunTetris", "FunTetris\FunTetris\FunTetris.csproj", "{31B095A0-3C3E-4D18-A27B-B63B455A2CEF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FunTetrisContent", "FunTetris\FunTetrisContent\FunTetrisContent.contentproj", "{1A57DDE6-F22F-4EF6-A607-2961F6A38837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B095A0-3C3E-4D18-A27B-B63B455A2CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{31B095A0-3C3E-4D18-A27B-B63B455A2CEF}.Debug|x86.Build.0 = Debug|x86
+		{31B095A0-3C3E-4D18-A27B-B63B455A2CEF}.Release|x86.ActiveCfg = Release|x86
+		{31B095A0-3C3E-4D18-A27B-B63B455A2CEF}.Release|x86.Build.0 = Release|x86
+		{1A57DDE6-F22F-4EF6-A607-2961F6A38837}.Debug|x86.ActiveCfg = Debug|x86
+		{1A57DDE6-F22F-4EF6-A607-2961F6A38837}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
